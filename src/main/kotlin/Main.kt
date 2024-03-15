@@ -9,3 +9,4 @@ fun printCity() {
     val city = readLine()
     println("User live in $city")
 }
+
