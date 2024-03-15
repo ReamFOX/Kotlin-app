@@ -6,6 +6,7 @@ fun main() {
 
 fun printCity() {
     println("Enter your city…")
-    val city = readLine()
+    val city = readln()
     println("User live in $city")
 }
+
